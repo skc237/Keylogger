@@ -21,7 +21,7 @@ This repository contains a Python-based keylogger that captures keystrokes, encr
 
 Install dependencies using pip:
 ```bash
-pip install pynput cryptography dnspython
+pip install pynput cryptography 
 
 Future works:
 - **USB Execution**: The keylogger can be stored on a USB pendrive and automatically executed when plugged into a target machine.
